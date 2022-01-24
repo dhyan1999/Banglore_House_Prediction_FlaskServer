@@ -2,7 +2,7 @@
   <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis" title="Gait Analysis">
   </a>
 </p>
-<h1 align="center"> Gait Cycle analysis using Pattern Recognition </h1>
+<h1 align="center"> Banglore House Prediction Using Flask Server (Python)</h1>
 
 ![experiment](image/experiment.png)
 <p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science</p>
@@ -10,8 +10,6 @@
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
     <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis" title="Gait Analysis">📂 Repo</a>
-    ·
-    <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis/blob/main/Paper/PR_Proposal.pdf" title="Gait Analysis">📄 Paper</a>
 </p>
 
 Abstract : One of the most significant human characteristics is motion ability, which includes gait as the foundation of human transitional movement. 
