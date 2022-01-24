@@ -17,13 +17,7 @@ In this repository, I've implemented a Machine Learning-based Bangalore House Pr
 
 1. [Manifest](#-manifest)
 2. [Prerequisites](#-prerequisites)
-3. [Installation Steps](#%EF%B8%8F-installation-steps)
-4. [Installation of important Libraries](#-installation-of-important-libraries)
-5. [Installation of labelImg](#installation-of-labelImg)
-6. [Use of labelImg in the project](#Use-of-labelImg-in-the-project)
-7. [Implementation of Code](##-implementation-of-code)
-8. [Future scope](#-future-scope)
-9. [Video](#video)
+3. [Things that I have Done on these DataSet](#%EF%B8%8F-installation-steps)
 
 ## 🧑🏻‍🏫 Manifest
 
@@ -41,8 +35,6 @@ In this repository, I've implemented a Machine Learning-based Bangalore House Pr
         coulmns.json --> File that contains information of Columns 
     Server.py --> Server File
     util.py --> Util File
-
-- 
 - README.md ---> This markdown file you are reading.
 ```
 
@@ -53,6 +45,18 @@ In this repository, I've implemented a Machine Learning-based Bangalore House Pr
 
 - Python Basics Understanding
 
-- Understanding of Machine Learning and Deep Learning libraries
+- Understanding of Machine Learning libraries Such as Scikit Learn, Pandas, Numpy and Matplotlib
 
-- A deep knowledge of [Transfer Learning models](https://keras.io/api/applications/)
+## Things that I have Done on these DataSet
+
+1. Exploratory data analysis
+2. Dealing with a missing values or noisy data
+3. Data preprocessing
+4. Create new features from existing features
+5. Remove outliers
+6. Data visualisation
+7. Splitting data into the training and testing 
+8. Train linear regression model and test.
+
+
+
