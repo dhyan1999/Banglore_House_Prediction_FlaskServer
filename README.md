@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis" title="Gait Analysis">
+  <a href="https://github.com/dhyan1999/Banglore_House_Prediction_FlaskServer" title="BHP">
   </a>
 </p>
 <h1 align="center"> Banglore House Prediction Using Flask Server (Python)</h1>
@@ -8,7 +8,7 @@
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis" title="Gait Analysis">📂 Repo</a>
+    <a href="https://github.com/dhyan1999/Banglore_House_Prediction_FlaskServer" title="BHP">📂 Repo</a>
 </p>
 
 In this repository, I've implemented a Machine Learning-based Bangalore House Price Prediction model. With the aid of a few characteristics like availability, size, total square feet, bath, location, and so on, this model forecasts the price of a property in Bangalore.
