@@ -17,7 +17,7 @@ In this repository, I've implemented a Machine Learning-based Bangalore House Pr
 
 1. [Manifest](#-manifest)
 2. [Prerequisites](#-prerequisites)
-3. [Things that I have Done on these DataSet](#%EF%B8%8F-installation-steps)
+3. [Things that I have Done on these DataSet](#things-that-i-have-done-on-these-dataset)
 
 ## 🧑🏻‍🏫 Manifest
 
