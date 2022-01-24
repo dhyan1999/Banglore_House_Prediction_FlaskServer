@@ -4,19 +4,14 @@
 </p>
 <h1 align="center"> Banglore House Prediction Using Flask Server (Python)</h1>
 
-![experiment](image/experiment.png)
-<p align="center">2021G COMP-5112-GDF - Research Methodolody Computer Science</p>
+![experiment](image/mainImage.jpeg)
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
     <a href="https://github.com/dhyan1999/CASIA-B-GaitAnalysis" title="Gait Analysis">📂 Repo</a>
 </p>
 
-Abstract : One of the most significant human characteristics is motion ability, which includes gait as the foundation of human transitional movement. 
-Many academics had concentrated on this topic in order to consider a novel recognition system. Many human gait datasets have been developed in the previous ten years. 
-The Gait Dataset of the University of South Florida (USF), the Gait Dataset of the Chinese Academy of Sciences (CASIA), and the Gait Dataset of Southampton University (SOTON) are some of the most extensively utilised datasets.
-The CASIA Gait Dataset will be examined in this research to determine its properties.Gait patterns were gathered in this investigation utilising a wireless platform with two sensors attached to the individuals’ chest and right ankle.
-The raw data was then subjected to certain preprocessing techniques.The performance of many temporal and frequency domain features is evaluated using five different classifiers, and a full comparison is made in this work.
+In this repository, I've implemented a Machine Learning-based Bangalore House Price Prediction model. With the aid of a few characteristics like availability, size, total square feet, bath, location, and so on, this model forecasts the price of a property in Bangalore.
 
 ## Table of Content
 
@@ -33,13 +28,21 @@ The raw data was then subjected to certain preprocessing techniques.The performa
 ## 🧑🏻‍🏫 Manifest
 
 ```
-- Pre_Processing.ipynb --> A python .ipynb file that run's Pre processing of the dataset
-- Resnet50.ipynb --> A python .ipynb file that run's ResNet50 Model
-- Resnet152V2.ipynb --> A python .ipynb file that run's Resnet152V2 Model
-- InceptionV2.ipynb --> A python .ipynb file that run's InceptionV2 Model
-- InceptionV3.ipynb --> A python .ipynb file that run's InceptionV3 Model
-- Paper   --> A Detailed research paper on Gait Cycle analysis using Pattern Recognition
-- Requierments.txt --> A requierment file for all kind of libraries to be requiered
+- Client --> This a client folder which contains the Front-End part of the project
+     app.css --> Cascade File
+     app.html --> HTML File
+     app.js --> Java Script File
+- Model --> 
+    Banglore_housing.ipynb --> Ipynb file where I do all the Machine Learning Stuffs and dump it to a pickle file
+    Bengaluru_House_Data.csv --> CSV File 
+- Server -->
+    Artifacts -->
+        banglore_house_price_prediction.pickle - Pickel file extracted from the IPYNB File
+        coulmns.json --> File that contains information of Columns 
+    Server.py --> Server File
+    util.py --> Util File
+
+- 
 - README.md ---> This markdown file you are reading.
 ```
 
